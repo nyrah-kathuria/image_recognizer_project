@@ -1,0 +1,35 @@
+ body
+ {
+    color:#7FB77E;
+    background:#F7F6DC();
+ }
+
+ .heading
+ {
+    width : 80%;
+    font-size : 22px;
+
+ }
+
+ .name_of_people
+ {
+    color : #7FB77E}
+
+ #camera
+ {
+    border:2px dashed #FFC090;
+    width : 350px;
+    height : 300px;
+ }
+
+ #result
+ {
+    border:2px dashed #FFC090;
+    width:350px;
+    height:300px;
+ }
+
+ #result_person_name, #result_person_accuracy
+ {
+  color : #7FB77E;
+ }
